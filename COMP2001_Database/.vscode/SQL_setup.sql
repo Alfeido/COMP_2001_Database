@@ -1,0 +1,7 @@
+USE [COMP2001_AJenkins];
+GO
+
+CREATE SCHEMA CW1;
+GO
+
+
