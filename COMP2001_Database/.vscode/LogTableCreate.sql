@@ -1,0 +1,6 @@
+CREATE TABLE CW1.UserLog (
+    Email VARCHAR(255) NOT NULL,
+    Username VARCHAR(100) NOT NULL,
+    PhoneNumber VARCHAR(20),
+    AddedTimestamp DATETIME DEFAULT GETDATE()
+);
